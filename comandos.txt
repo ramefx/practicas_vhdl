@@ -1,0 +1,8 @@
+>ghdl -s puertas.vhd
+>ghdl -s puertas_tb.vhd
+>ghdl -a puertas.vhd
+>ghdl -a puertas_tb.vhd
+>ghdl -e puertas_tb
+>ghdl -r puertas_tb
+>ghdl -r puertas_tb --vcd=simu1.vcd
+>gtkwave simu1.vcd

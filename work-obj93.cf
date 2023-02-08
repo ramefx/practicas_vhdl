@@ -1,0 +1,7 @@
+v 4
+file . "puertas_tb.vhd" "757f8d8f6172b02234b018cdf072b3871956cbe6" "20220926001544.874":
+  entity puertas_tb at 1( 0) + 0 on 13;
+  architecture behavior of puertas_tb at 11( 235) + 0 on 14;
+file . "puertas.vhd" "bc5f985d456bae317860623952272b76c1bc58cd" "20220926001533.114":
+  entity puertas at 1( 0) + 0 on 11;
+  architecture behavioral of puertas at 14( 329) + 0 on 12;
