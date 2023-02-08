@@ -1,0 +1,7 @@
+v 4
+file . "comb_tb.vhd" "1af8d08c5206d9b3a39fbc7e0c6653cde918c653" "20221015041446.043":
+  entity comb_tb at 1( 0) + 0 on 25;
+  architecture bhv of comb_tb at 8( 124) + 0 on 26;
+file . "comb.vhd" "d26dad5715473ee31205ec156d022d2991438772" "20221015041445.994":
+  entity comb at 2( 22) + 0 on 23;
+  architecture comportamiento of comb at 17( 350) + 0 on 24;

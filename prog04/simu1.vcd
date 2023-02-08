@@ -1,0 +1,57 @@
+$date
+  Thu Oct 27 17:03:50 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module exor_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # out1 $end
+$scope module uut $end
+$var reg 1 $ a $end
+$var reg 1 % b $end
+$var reg 1 & out1 $end
+$var reg 2 ' union[1:0] $end
+$var reg 1 ( out2 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+b00 '
+0(
+#50000000
+#100000000
+1!
+1#
+1$
+1&
+b10 '
+1(
+#150000000
+0!
+1"
+0$
+1%
+b01 '
+#200000000
+1!
+0#
+1$
+0&
+b11 '
+0(
+#250000000

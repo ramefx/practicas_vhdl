@@ -1,0 +1,7 @@
+v 4
+file . "exor_tb.vhd" "90957a4d2b5b433ade8918dec5f9b801a54c2972" "20221027220350.625":
+  entity exor_tb at 2( 73) + 0 on 17;
+  architecture bhv of exor_tb at 8( 207) + 0 on 18;
+file . "exor.vhd" "c97a918d6405129767e788e8b6f6eb43320b92c8" "20221027220350.573":
+  entity exor at 2( 22) + 0 on 15;
+  architecture behavioral of exor at 10( 236) + 0 on 16;
